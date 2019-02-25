@@ -1,0 +1,8 @@
+On avait deja trouve les addresses des machines sur le meme reseau local grace a arp -a dans la 
+question 2 --> on sait que notre reseau local est defini par 10.11.00.00 (IP)
+
+Le materiel qui fait le lien entre le reseau local et l'exterieur est donc le dernier a faire parti du reseau local dans la liste affichee par la question 10
+
+1  10.11.254.254 (10.11.254.254)  0.841 ms  8.842 ms  1.194 ms
+
+Cela confirme le resultat de la question 04

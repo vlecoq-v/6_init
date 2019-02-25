@@ -1,0 +1,6 @@
+#kill $(ps -u jocohen | egrep ':[0-9]' | cut -d ' ' -f 2)
+#demande d'etre connecte en root pour pouvoir kill certain process
+sudo slay $0
+sudo userdel $0
+
+
