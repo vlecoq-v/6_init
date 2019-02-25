@@ -1,1 +1,2 @@
+#on appel les services qui sont actifs en arriere plan les daemon
 ls /etc/init.d

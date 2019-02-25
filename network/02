@@ -1,3 +1,2 @@
 ifconfig en0 |grep 'broadcast' | cut -d ' ' -f5-
-ping en0
 arp -a

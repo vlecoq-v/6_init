@@ -1,1 +1,1 @@
-systemctl restart debian
+systemctl restart ssh
