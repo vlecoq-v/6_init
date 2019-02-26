@@ -1,1 +1,3 @@
-/goinfre/vagrant/00_VM_debian/
+on peut trouver les details de la version de debian dans /etc/lsb-release (linux standard base)
+
+on est donc sur la version 9 de Debian GNu/Linux

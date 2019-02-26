@@ -1,3 +1,1 @@
-#10.11.10.11
-#la commande de base pour le reverse DNs est ns lookup mais hostname fonctionne egalement
-nslookup 10.11.10.10
+7.8.12.10.in-addr.arpa domain name pointer e2r8p7.42.fr.

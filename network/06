@@ -1,2 +1,2 @@
-Les fichiers sont stockes dans etc/hosts
-
+#Les fichiers sont stockes dans /etc/resolv.conf
+cat /etc/resolv.conf

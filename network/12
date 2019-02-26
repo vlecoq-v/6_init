@@ -1,1 +1,1 @@
-ipconfig getpacket en0 |grep 'yiadd'
+ipconfig getpacket en0 |grep 'yiadd' | cut -d ' ' -f 3

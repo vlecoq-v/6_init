@@ -2,12 +2,12 @@
 
 #!/bin/bash
 
-if [[&1 != "-m"]]
+if [[ &1 != "-m" ]]
 then
 	echo "ip = "
 	ip route list | grep 'default' | cut -d ' ' -f 3
 fi
-if [[ $1 != "-i"]]
+if [[ $1 != "-i" ]]
 then
 	echo "Mac = "
 	ip link show | grep 'ether' | cut -d ' ' -f 6

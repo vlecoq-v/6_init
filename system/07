@@ -1,1 +1,1 @@
-ps -e
+ps -e | grep sshd
