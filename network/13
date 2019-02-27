@@ -1,1 +1,2 @@
-7.8.12.10.in-addr.arpa domain name pointer e2r8p7.42.fr.
+#host $(ipconfig getpacket en0 |grep 'yiadd' | cut -d ' ' -f 3)
+10.10.11.10.in-addr.arpa domain name pointer e1r10p10.42.fr.

@@ -1,1 +1,2 @@
-ssh vlecoq-v@debian@10.0.2.15
+#ssh [user]@[ip_machine]
+ssh vlecoq-v@debian@10.11.200.74

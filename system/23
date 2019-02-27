@@ -1,2 +1,2 @@
 session graphique su jocohen
-session ssh : pour acceder a la VM avec cet utilisateur il faut taper la commande user_name@host_name@IP_add depuis une autre machine
+session ssh : pour acceder a la VM avec cet utilisateur il faut taper la commande user_name@IP_add depuis une autre machine

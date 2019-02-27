@@ -1,1 +1,1 @@
-hostname
+sudo hostnamectl set-hostname mamen

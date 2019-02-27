@@ -1,1 +1,2 @@
-root/.ssh/id_rsa
+#les cles rsa des users qui peuvent se connecter via ssh sont stockees dans le fichier
+~/.ssh/authorized_keys

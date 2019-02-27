@@ -1,1 +1,2 @@
+#systemctl status ssh donne egalement la reponse
 ps -e | grep sshd
