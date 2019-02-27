@@ -1,3 +1,5 @@
 #on appel les services qui sont actifs en arriere plan les daemon,
-#Ils se lancent en grande majorite au boot ex sshd
-ls /etc/init.d
+#Ils se lancent en grande majorite au boot ex ssh
+#ls /etc/init.d
+console-setup.sh  dbus   hwclock.sh         kmod        procps   ssh   udev
+cron              exim4  keyboard-setup.sh  networking  rsyslog  sudo  x11-common
